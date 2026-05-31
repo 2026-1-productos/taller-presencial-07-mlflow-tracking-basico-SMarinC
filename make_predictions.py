@@ -1,5 +1,7 @@
 """Prediccion script for the MLflow model.
 
+## Description
+
 This script loads a model from MLflow and makes predictions on a dataset.
 
 $ python3 make_predictions.py
